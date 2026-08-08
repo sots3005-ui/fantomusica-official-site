@@ -273,10 +273,9 @@ header {
 /* WORKS */
 .works-layout {
     margin: 3rem 6rem 5rem;
-    display: flex;
-    gap: 6rem;
-    flex-wrap: wrap;
-
+    display: grid;
+    gap: 5rem;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 
 /* CONTACT */
