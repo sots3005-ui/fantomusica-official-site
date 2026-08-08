@@ -366,6 +366,7 @@ header {
             display: grid;
             gap: 2rem;
             a {
+                text-size: 1.5rem;
                 text-decoration: underline;
             }
         }
